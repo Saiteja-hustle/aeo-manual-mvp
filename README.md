@@ -1,6 +1,8 @@
 # AI Visibility (AEO) Manual MVP: SOP Pack
 
-Repeatable process for getting a product named in Google AI Overview answers. Built from the CursorClip run (11 to 13 Oct 2026) and written so a human can recall it and an AI agent can execute it.
+A repeatable process for getting a product named in Google AI Overview answers. It covers five steps: find keywords already ranking in Google Search Console, check whether AI Overviews name the product, work out why or why not, reverse-engineer the citations, and turn the patterns into articles, discussions and listings. A Notion tracker holds the results.
+
+Every SOP has two parts. Part A is a human overview so you can recall what was done. Part B is instructions an AI agent can follow. Built from a live run on CursorClip, 11 to 13 Oct 2026. Observed results only: no lift is claimed until fixes ship and are re-checked.
 
 ## How to read each SOP
 Every SOP has two parts:
