@@ -1,2 +1,4 @@
 # aeo-manual-mvp
 Manual MVP SOPs for AI visibility (AEO): find keywords, check Google AI Overviews, analyse citations, plan fixes, and track it all in Notion. Each SOP has a human overview and AI agent instructions.
+A repeatable process for getting a product named in Google AI Overview answers. It covers five steps: find keywords already ranking in Google Search Console, check whether AI Overviews name the product, work out why or why not, reverse-engineer the citations, and turn the patterns into articles, discussions and listings. A Notion tracker holds the results.
+Every SOP has two parts. Part A is a human overview so you can recall what was done. Part B is instructions an AI agent can follow. Built from a live run on CursorClip, 11 to 13 Oct 2026. Observed results only: no lift is claimed until fixes ship and are re-checked.
